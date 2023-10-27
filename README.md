@@ -1,3 +1,5 @@
+[![.NET](https://github.com/ankushjain358/aws-services-netcore-wrappers/actions/workflows/dotnet.yml/badge.svg)](https://github.com/ankushjain358/aws-services-netcore-wrappers/actions/workflows/dotnet.yml)
+
 ## aws-services-netcore-wrappers
 
 This is a AWS Services wrapper project that offers functionality to use various AWS Services in an simpler way.
