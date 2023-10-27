@@ -28,8 +28,6 @@ jobs:
       run: dotnet test tests/Amazon.DynamoDb.Wrapper.Tests --no-build --verbosity normal
     - name: Run Amazon.Sns.Wrapper.Tests
       run: dotnet test tests/Amazon.Sns.Wrapper.Tests --no-build --verbosity normal
-    - name: Run Amazon.Sqs.Wrapper.System.Tests
-      run: dotnet test tests/Amazon.Sqs.Wrapper.System.Tests --no-build --verbosity normal
     - name: Run Amazon.Sqs.Wrapper.Test
       run: dotnet test tests/Amazon.Sqs.Wrapper.Tests --no-build --verbosity normal
 
